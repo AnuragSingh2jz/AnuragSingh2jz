@@ -86,6 +86,15 @@ align="center"/>
 
 
 ## 🧠 LeetCode Stats
+## 🏆 LeetCode Contest Stats
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/anurag2jz?theme=dark&font=baloo&ext=contest"
+    width="450"
+    alt="LeetCode Contest Stats"
+  />
+</p>
 
 
 
