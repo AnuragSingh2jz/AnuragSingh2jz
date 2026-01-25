@@ -95,14 +95,21 @@ align="center"/>
 
 ---
 
+
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=anurag2jz&theme=dark" width="48%" />
+  <img 
+    src="https://leetcode.card.workers.dev/anurag2jz?theme=dark&font=baloo" 
+    width="450"
+  />
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api/heatmap?username=anurag2jz&theme=dark" width="95%" />
+  <img 
+    src="https://leetcard.jacoblin.cool/anurag2jz?theme=dark&font=baloo&ext=heatmap" 
+    width="95%"
+  />
 </p>
 
 ---
