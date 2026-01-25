@@ -83,9 +83,6 @@ align="center"/>
 </table>
 
 ---
-
-
-## 🧠 LeetCode Stats
 ## 🏆 LeetCode Contest Stats
 
 <p align="center">
@@ -95,6 +92,9 @@ align="center"/>
     alt="LeetCode Contest Stats"
   />
 </p>
+
+
+## 🧠 LeetCode Stats
 
 
 
