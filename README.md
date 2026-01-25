@@ -13,19 +13,8 @@
       </a>
     </td>
 
-    <!-- MIDDLE TEXT -->
-    <td width="400" style="padding: 15px;">
-      <p><em>SUPER UNEMPLOYED OHIO FINAL BOSS</em></p>
-      <strong>Name:</strong> Anurag Singh <br>
-      <strong>Residing in:</strong> India <br>
-      <strong>Work:</strong> Student / Developer <br>
-      <strong>Language:</strong> English
-    </td>
-
-    <!-- RIGHT GIF -->
-    <td width="200" align="center">
-      <img src="https://github.com/Anuragsingh2jz/Anuragsingh2jz/blob/main/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif?raw=true" width="180">
-    </td>
+    
+  
   </tr>
 </table>
 
@@ -98,12 +87,7 @@ align="center"/>
 
 ## 🧠 LeetCode Stats
 
-<p align="center">
-  <img 
-    src="https://leetcode.card.workers.dev/anurag2jz?theme=dark&font=baloo" 
-    width="450"
-  />
-</p>
+
 
 <p align="center">
   <img 
