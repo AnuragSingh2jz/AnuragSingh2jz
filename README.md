@@ -29,20 +29,30 @@
   </tr>
 </table>
 
+---
+
 ## 🏆 Github Profile Trophy
 <br/><br/>
-<img width="170%" 
-src="https://github-profile-trophy.vercel.app/?username=Anuragsingh2jz&no-bg=true&no-frame=true&theme=alduin" 
+<img width="170%"
+src="https://github-profile-trophy.vercel.app/?username=Anuragsingh2jz&no-bg=true&no-frame=true&theme=alduin"
 align="center"/>
 <br/><br/>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HACKERRANK-DAC6C2?style=for-the-badge"/></a>
-  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/DISCORD-DAC6C2?style=for-the-badge"/></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/EMAIL-DAC6C2?style=for-the-badge"/></a>
+  <a href="https://leetcode.com/u/anurag2jz/">
+    <img src="https://img.shields.io/badge/LEETCODE-DAC6C2?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://discord.com/users/">
+    <img src="https://img.shields.io/badge/DISCORD-DAC6C2?style=for-the-badge"/>
+  </a>
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/EMAIL-DAC6C2?style=for-the-badge"/>
+  </a>
   <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
 </p>
+
+---
 
 ## </> Things I code with
 <p align="left">
@@ -59,33 +69,53 @@ align="center"/>
 
 </p>
 
+---
+
 ## 📊 Github Stats
 
 <table align="center" width="100%" cellspacing="0" cellpadding="4" style="border:none;">
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Anuragsingh2jz&theme=github-dark" />
-      <img width="100%" 
+      <img width="100%"
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuragsingh2jz&theme=github_dark"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img width="100%" 
+      <img width="100%"
       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuragsingh2jz&theme=github_dark"/>
     </td>
     <td width="50%">
-      <img width="100%" 
+      <img width="100%"
       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anuragsingh2jz&theme=github_dark"/>
     </td>
   </tr>
 </table>
 
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=anurag2jz&theme=dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api/heatmap?username=anurag2jz&theme=dark" width="95%" />
+</p>
+
+---
+
 ## 📫 Contact
-**Please contact me on Discord for a quick response**
+<strong>Please contact me on Discord for a quick response</strong>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Anuragsingh2jz&color=87CEFA&style=flat&label=Profile+views" />
   <a href="https://github.com/Anuragsingh2jz">
     <img src="https://img.shields.io/github/followers/Anuragsingh2jz?label=Followers&style=flat" />
+  </a>
+  <a href="https://leetcode.com/u/anurag2jz/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat"/>
   </a>
 </p>
