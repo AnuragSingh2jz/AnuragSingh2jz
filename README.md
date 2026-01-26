@@ -4,38 +4,20 @@
   <img src="https://komarev.com/ghpvc/?username=Anuragsingh2jz&color=000000&style=for-the-badge&label=VIEWS" align="right"/>
 </h1>
 
-<table>
-  <tr>
-    <!-- LEFT IMAGE -->
-    <td width="200" align="center">
-      <a href="https://github.com/Anuragsingh2jz">
-        <img width="200" src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif">
-      </a>
-    </td>
 
-    
-  
-  </tr>
-</table>
 
----
 
-## 🏆 Github Profile Trophy
-<br/><br/>
-<img width="170%"
-src="https://github-profile-trophy.vercel.app/?username=Anuragsingh2jz&no-bg=true&no-frame=true&theme=alduin"
-align="center"/>
-<br/><br/>
+
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
   <a href="https://leetcode.com/u/anurag2jz/">
     <img src="https://img.shields.io/badge/LEETCODE-DAC6C2?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://discord.com/users/">
+  <a href="https://discord.com/users/anuragchauhan2jz_38934">
     <img src="https://img.shields.io/badge/DISCORD-DAC6C2?style=for-the-badge"/>
   </a>
-  <a href="mailto:">
+  <a href="mailto:mibanurag9140@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-DAC6C2?style=for-the-badge"/>
   </a>
   <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
